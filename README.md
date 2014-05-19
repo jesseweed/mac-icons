@@ -1,13 +1,24 @@
 # Mac Icons
 This is a collection of icons I've compiled for updating the look on my mac. I was going for a very specific minimalistic flat look, so there's no many alternate styles of icons, but if that's the look you're going for as well, then you're in luck :)
 
+Just download the ZIP to get started. I also put together a brief guide below to walk your through how to use the icons.
 
-![Step 01](_screenshots/desktop.png)
-![Step 01](_screenshots/dock.png)
-![Step 01](_screenshots/finder.png)
+*Of course make any of these changes at your own risk, I'm not respoinsible if you break something :)*
 
 
-I put together a brief guide below for how to use them. Of course make any of these changes at your own risk, I'm not respoinsible if you break something :)
+* [Application Icons](#application-icons)
+* [Document & File Icons](#document--file-icons)
+* [Tools](#tools)
+* [Credit](#credit)
+
+
+![Desktop](_screenshots/desktop.png)
+
+
+### Example Icons
+![Sample](_screenshots/tile.png)
+
+
 
 ### Application Icons
 
