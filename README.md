@@ -6,19 +6,20 @@ Just download the ZIP to get started. I also put together a brief guide below to
 *Of course make any of these changes at your own risk, I'm not respoinsible if you break something :)*
 
 
+### Guide
 * [Application Icons](#application-icons)
 * [Document & File Icons](#document--file-icons)
 * [Tools](#tools)
 * [Credit](#credit)
 
+***
 
 ![Desktop](_screenshots/desktop.png)
-
 
 ### Example Icons
 ![Sample](_screenshots/tile.png)
 
-
+***
 
 ### Application Icons
 
@@ -68,8 +69,6 @@ If you want to make or download some of your own icons and need to convert an im
 
 
 ### Credit
-
-##### Source
 
 I've downloaded the majority of these icons from various free icon sources around the internet and claim no rights to any of them. If you are the creator of any of these icons and would like a credit or to have any of them removed, please let me not
 
