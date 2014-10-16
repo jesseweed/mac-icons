@@ -70,7 +70,7 @@ If you want to make or download some of your own icons and need to convert an im
 
 ### Credit
 
-I've downloaded the majority of these icons from various free icon sources around the internet and claim no rights to any of them. If you are the creator of any of these icons and would like a credit or to have any of them removed, please let me not
+I've downloaded the majority of these icons from various free icon sources around the internet and claim no rights to any of them. If you are the creator of any of these icons and would like a credit or to have any of them removed, please let me know.
 
 
 ##### Document Icons
